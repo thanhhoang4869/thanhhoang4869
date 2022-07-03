@@ -2,7 +2,7 @@
 <h3 align="center">💻 Programming & Markup Languages 💻</h3>
 <br/>
 <div align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="25" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java" height="25" />
     <img src="https://img.shields.io/badge/Kotlin-A020F0.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin" height="25" />
     <img src="https://img.shields.io/badge/JavaScript-FAD02C?style=for-the-badge&logo=css3&logoColor=black" alt="JavaScript" height="25" />
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" height="25" />
