@@ -1,5 +1,5 @@
 
-<h2 align="center">💻 Programming 💻</h2>
+<h3 align="center">💻 Programming & Markup Language 💻</h3>
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="25" />
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" height="25" />
 </div>
 <br>
-<h2 align="center">👨‍💻 Technologies 👨‍💻</h2>
+<h3 align="center">👨‍💻 Technologies 👨‍💻</h3>
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" height="25" />
@@ -29,7 +29,7 @@
 </div>
 <br>
 
-<h2 align="center">🛠️ Tools 🛠️</h2>
+<h3 align="center">🛠️ Tools 🛠️</h3>
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Intellij-AA336A?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij" height="25" />
@@ -40,7 +40,7 @@
 </div>
 <br>
 
-<h2 align="center">📊 Github Stats 📊</h2>
+<h3 align="center">📊 Github Stats 📊</h3>
 <br>
 <div align="center">
     <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhoang4869&layout=compact&theme=algolia"/>
