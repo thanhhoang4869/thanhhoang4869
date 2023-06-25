@@ -53,8 +53,8 @@
 <br>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhhoang4869&show_icons=true&theme=dark&locale=en" alt="thanhhoang4869" style="width: 520px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhhoang4869&show_icons=true&theme=dark&locale=en&langs_count=3&hide=css" alt="thanhhoang4869" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=thanhhoang4869&show_icons=true&theme=dark&locale=en" alt="thanhhoang4869" style="width: 520px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhhoang4869&show_icons=true&theme=dark&locale=en&langs_count=3&hide=css" alt="thanhhoang4869" /> -->
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhhoang4869&theme=dark" alt="thanhhoang4869" /></p>
