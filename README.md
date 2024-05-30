@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Zoe!  
   
 
-I'm working at [ELCA Group](https://www.elca.ch) - Vietnam branch as a full-stack software engineer. I love developing both semantic client-facing apps and cutting edge backend systems. Beside software developement, project management is also my frequently read topic.  
+I'm working at [ELCA Group](https://www.elca.ch) - Vietnam branch as a full-stack software engineer. I love developing both semantic client-facing apps and cutting edge backend systems. Beside software developement, project management is also my frequently read topic.
+<br/>
 
 ## A glimpse of me
 
@@ -11,6 +12,7 @@ I'm working at [ELCA Group](https://www.elca.ch) - Vietnam branch as a full-stac
     <p>⚡ On this github you will find some of the projects I developed when I attended university</p>
     <p>😍 Fun fact: I love learning languages, I mean both programming and natural languages</p>
   </div>
+  <br/>
 
 ## I mostly work with 
 <div>  
@@ -24,8 +26,9 @@ I'm working at [ELCA Group](https://www.elca.ch) - Vietnam branch as a full-stac
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>  
+<br/>
 
-## Find me on  
+## You can find me on  
 <a href="https://linkedin.com/in/thanhhoang4869" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
