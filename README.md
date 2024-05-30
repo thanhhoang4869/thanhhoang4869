@@ -8,28 +8,17 @@ I'm working at [ELCA Group](https://www.elca.ch) - Vietnam branch as a full-stac
 
 
 ## Quick overview
-<table style="border: none"><tr><td valign="top" width="50%">
-
-💬 I love to learn and talk about software development and project management  
-  
-
-🎓 I graduated from VNU - University of Science, majoring in Software Engineering  
-  
-
-❗ On this github you will find some of the projects I developed when I attended university  
-  
-
-⚡ Fun fact: I love learning languages, I mean both programming and natural languages  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://i.imgur.com/VyMWOvc.jpeg" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+<div style="display: flex;">
+  <div style="width: 50%; padding-right: 20px;">
+    <p>💬 I love to learn and talk about software development and project management</p>
+    <p>🎓 I graduated from VNU - University of Science, majoring in Software Engineering</p>
+    <p>❗ On this github you will find some of the projects I developed when I attended university</p>
+    <p>⚡ Fun fact: I love learning languages, I mean both programming and natural languages</p>
+  </div>
+  <div style="width: 50%; display: flex; justify-content: center; align-items: center;">
+    <img src="https://i.imgur.com/VyMWOvc.jpeg" style="width: 100%;" />
+  </div>
+</div>
 
 <br/>  
 
@@ -44,7 +33,7 @@ I'm working at [ELCA Group](https://www.elca.ch) - Vietnam branch as a full-stac
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="40" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
 </div>  
 
 <br/>  
