@@ -9,7 +9,7 @@ I'm working at [ELCA Group](https://www.elca.ch) - Vietnam branch as a full-stac
 <div>
     <p>💬 I love to learn and talk about software development and project management</p>
     <p>🎓 I graduated from VNU - University of Science, majoring in Software Engineering</p>
-    <p>⚡ On this github you will find some of the projects I developed when I attended university</p>
+    <p>⚡ On this github, you will find some of the projects I developed when I attended university</p>
     <p>😍 Fun fact: I love learning languages, I mean both programming and natural languages</p>
 </div>
 <br/>
