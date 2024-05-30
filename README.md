@@ -1,14 +1,14 @@
 ## Hey 👋, I'm Zoe!  
   
 
-I'm working at [ELCA Group](https://www.elca.ch) - Vietnam branch as a full-stack software engineer. I love developing both semantic client-facing apps and cutting edge backend systems. Beside software developement, project management is also my frequently read topic.
+I'm working at [ELCA Group](https://www.elca.vn) - Vietnam branch as a full-stack software engineer. I love developing both semantic client-facing apps and cutting edge backend systems. Beside software developement, project management is also my frequently read topic.
 <br/><br/>
 
 ## A glimpse of me
 
 <div>
     <p>💬 I love to learn and talk about software development and project management</p>
-    <p>🎓 I graduated from VNU - University of Science, majoring in Software Engineering</p>
+    <p>🎓 I graduated from [VNU - University of Science](https://hcmus.edu.vn/), majoring in Software Engineering</p>
     <p>⚡ On this github you will find some of the projects I developed when I attended university</p>
     <p>😍 Fun fact: I love learning languages, I mean both programming and natural languages</p>
 </div>
