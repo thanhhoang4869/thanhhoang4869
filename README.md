@@ -4,6 +4,7 @@
 I'm working at [ELCA Group](https://www.elca.ch) - Vietnam branch as a full-stack software engineer. I love developing both semantic client-facing apps and cutting edge backend systems. Beside software developement, project management is also my frequently read topic.
 <br/>
 
+
 ## A glimpse of me
 
 <div>
