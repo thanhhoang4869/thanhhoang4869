@@ -1,6 +1,6 @@
 # Hi, I'm Zoe! 👋
 
-**Software Engineer @ Fiserv | M.Sc. AI @ VGU | B.Sc. Software Engineering @ VNU-HCMUS**
+**Software Engineer @ Fiserv | M.Sc. AI @ VGU | B.Sc. IT @ VNU-HCMUS**
 
 I'm a software engineer currently working remotely at <a href="https://www.fiserv.com/" target="_blank" rel="noopener noreferrer"><strong>Fiserv</strong></a>, formerly at <a href="https://www.secutix.com/" target="_blank" rel="noopener noreferrer"><strong>ELCA – SecuTix</strong></a>.
 
